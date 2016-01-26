@@ -1,8 +1,8 @@
 class Kibana < Formula
   homepage "https://www.elastic.co/products/kibana"
-  version "4.3.0"
-  url "https://download.elastic.co/kibana/kibana/kibana-4.3.0-darwin-x64.tar.gz"
-  sha1 "ba16b784eeab7fbd96367eb3f8e441812f83f7b6"
+  version "4.3.1"
+  url "https://download.elastic.co/kibana/kibana/kibana-4.3.1-darwin-x64.tar.gz"
+  sha1 "dd4ee45c8a0e3dbaf98da92b1767eff312af93c5"
 
   depends_on "elasticsearch"
 
