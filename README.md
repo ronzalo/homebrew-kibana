@@ -4,8 +4,8 @@ This tap is intended to ease the installation and use of Kibana.
 
 ## Installation
 
-1. `brew tap jappievw/kibana`
-1. `brew tap-pin jappievw/kibana`
+1. `brew tap lukeluha/kibana`
+1. `brew tap-pin lukeluha/kibana`
 
 ## Usage
 
