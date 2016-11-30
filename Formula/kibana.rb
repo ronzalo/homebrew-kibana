@@ -2,7 +2,7 @@ class Kibana < Formula
   homepage "https://www.elastic.co/products/kibana"
   version "4.6.2"
   url "https://download.elastic.co/kibana/kibana/kibana-4.6.2-darwin-x86_64.tar.gz"
-  sha1 "d99f1e8ee56f27da79db47088789265c9c5598ea"
+  sha256 "d99f1e8ee56f27da79db47088789265c9c5598ea"
 
   depends_on "elasticsearch"
 
